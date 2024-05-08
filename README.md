@@ -2,6 +2,11 @@
 
 En este repo encontraremos el trabajo práctico de la asignatura Aprendizaje Automatico 2, de la Tecnicatura Univesitaria en Inteligencia Artificial.
 
+Integrantes:
+ - Ferrero Santiago
+ - Loza Santiago
+
+ 
 Enunciado: https://docs.google.com/document/d/1cp8cZrxhCjM5nm4AM8k1arh-bpLtT1-3/edit
 
 Contiene 1 archivo:
